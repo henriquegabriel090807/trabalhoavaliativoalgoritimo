@@ -1,0 +1,93 @@
+Execução real
+Ferramenta: rustc 1.99.1 (58cf8f9c3 2026-10-13)
+
+=== Programa com quatro e cinco times ===
+
+Times: 4
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+3 - Villa Nova
+Ida e volta:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+América-MG x Villa Nova
+Villa Nova x Atlético-MG
+Villa Nova x Cruzeiro
+Villa Nova x América-MG
+Total: 12
+Turno único:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+América-MG x Villa Nova
+Total: 6
+
+Times: 5
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+3 - Villa Nova
+4 - Tombense
+Ida e volta:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Atlético-MG x Tombense
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+Cruzeiro x Tombense
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+América-MG x Villa Nova
+América-MG x Tombense
+Villa Nova x Atlético-MG
+Villa Nova x Cruzeiro
+Villa Nova x América-MG
+Villa Nova x Tombense
+Tombense x Atlético-MG
+Tombense x Cruzeiro
+Tombense x América-MG
+Tombense x Villa Nova
+Total: 20
+Turno único:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Atlético-MG x Tombense
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+Cruzeiro x Tombense
+América-MG x Villa Nova
+América-MG x Tombense
+Villa Nova x Tombense
+Total: 10
+
+=== Teste com três times ===
+
+Times: 3
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+Ida e volta:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+Total: 6
+Turno único:
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x América-MG
+Total: 3

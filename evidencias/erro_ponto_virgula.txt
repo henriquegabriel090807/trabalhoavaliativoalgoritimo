@@ -1,0 +1,11 @@
+Reprodução em cópia temporária do código Java, sem alterar o arquivo entregue.
+Trecho sem ponto e vírgula: int total = 0
+
+Main.java:12: error: ';' expected
+            int total = 0
+                         ^
+1 error
+error: compilation failed
+
+Correção: int total = 0;
+O código corrigido executou com sucesso, conforme java.txt.
